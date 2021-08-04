@@ -1,12 +1,23 @@
 # Simple REST API
 
-## Install
+## Common setup
 
+Clone the repo and install the dependencies.
+
+```bash
+git clone https://github.com/rhawley56/simple-rest-api.git
+cd simple-rest-api
+```
+
+```bash
 npm install
+```
 
 ## Run the app
 
-node .
+```bash
+npm run start:dev
+```
 
 # REST API
 
