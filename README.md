@@ -6,7 +6,7 @@ npm install
 
 ## Run the app
 
-node
+node .
 
 # REST API
 
