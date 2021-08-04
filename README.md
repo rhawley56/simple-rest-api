@@ -9,12 +9,15 @@ Implement Auth system to restrict certain API Functions
 ### API CRUD Functions
 
 Create Update and Delete functionality
+
 Enforce formatting on different attributes (ex. check for properly formatted email addresses and phone numbers)
+
 Sanitize all inputs
 
 ### Attach DB to API
 
 Create a DB connection for API to interact with
+
 Create DB Table Schemas and the ability to setup on initial connection
 
 ### Testing
